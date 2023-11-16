@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Rubic";
+  src: local "RubikRegular", local "Rubik-Regular", url("../FONTS/Rubik-Regular.woff") format("woff"), url("../FONTS/Rubik-Regular.woff2") format("woff2"), url("../FONTS/Rubik-Regular.eot") format("eot");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Rubic";
+  src: local "RubikMedium", local "Rubik-Medium", url("../FONTS/Rubik-Medium.woff") format("woff"), url("../FONTS/Rubik-Medium.woff2") format("woff2"), url("../FONTS/Rubik-Medium.eot") format("eot");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "DMSans";
+  src: local "DMSansRegular", local "DMSans-Regular", url("../FONTS/DMSans-Regular.woff") format("woff"), url("../FONTS/DMSans-Regular.woff2") format("woff2"), url("../FONTS/DMSans-Regular.eot") format("eot");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "DMSans";
+  src: local "DMSansMedium", local "DMSans-Medium", url("../FONTS/DMSans-Medium.woff") format("woff"), url("../FONTS/DMSans-Medium.woff2") format("woff2"), url("../FONTS/DMSans-Medium.eot") format("eot");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Mulish";
+  src: local "MulishRegular", local "Mulish-Regular", url("../FONTS/Mulish-Regular.woff") format("woff"), url("../FONTS/Mulish-Regular.woff2") format("woff2"), url("../FONTS/Mulish-Regular.eot") format("eot");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Mulish";
+  src: local "MulishBold", local "Mulish-Bold", url("../FONTS/Mulish-Regular.woff") format("woff"), url("../FONTS/Mulish-Regular.woff2") format("woff2"), url("../FONTS/Mulish-Regular.eot") format("eot");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Mulish";
+  src: local "MulishSemiBold", local "Mulish-SemiBold", url("../FONTS/Mulish-SemiBold.woff") format("woff"), url("../FONTS/Mulish-SemiBold.woff2") format("woff2"), url("../FONTS/Mulish-SemiBold.eot") format("eot");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Mulish";
+  src: local "MulishExtraBold", local "Mulish-ExtraBold", url("../FONTS/Mulish-ExtraBold.woff") format("woff"), url("../FONTS/Mulish-ExtraBold.woff2") format("woff2"), url("../FONTS/Mulish-ExtraBold.eot") format("eot");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
